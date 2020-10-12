@@ -1,5 +1,5 @@
 # podman_insights
-A simple list of useful links about podman
+A simple list of useful links about podman. Just for good students!
 
 
 ## Podman root vs rootless networking
